@@ -10,7 +10,6 @@ const Input = () => {
     <div className={classes.Wrapper}>
       <input 
         className={classes.Input} 
-        value={value} 
         placeholder={'密码'}
         type="password"
         onChange={onChangeInput}
