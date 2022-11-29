@@ -1,0 +1,16 @@
+.Content{
+  text-align: center;
+}
+.Content img{
+  width: 200rem;
+  height: 200rem;
+  margin: 60rem 0;
+}
+.Content h1{
+  font-size: 60rem;
+  color: #555;
+}
+.Content p{
+  font-size: 30rem;
+  color: #555;
+}

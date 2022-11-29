@@ -1,0 +1,39 @@
+.Header{
+  width: 750rem;
+  height: 150rem;
+  background-color: #eee;
+  text-align: center;
+  font-size: 30rem;
+  color: #555;
+  line-height: 150rem;
+}
+footer{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 40px;
+}
+footer div{
+  width: 250rem;
+  height: 100rem;
+  text-align: center;
+  line-height: 100rem;
+  border-radius: 50px;
+  font-size: 28rem;
+  border: 1px solid #eee;
+  cursor: pointer;
+}
+.Content{
+  text-align: center;
+  font-size: 50rem;
+  color: #333;
+  text-align: center;
+  margin: 20px 0;
+}
+.Cancel{
+  color: #0260a4;
+  border: 1px solid #0260a4;
+}
+.Checkout{
+  background-color: #0260a4;
+  color: #ffffff;
+}
