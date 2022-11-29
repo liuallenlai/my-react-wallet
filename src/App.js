@@ -1,6 +1,6 @@
 import React from 'react'
 import Login from './components/login'
-import SinQuest from './components/SignQuest'
+// import SinQuest from './components/SignQuest'
 
 function App() {
   return (
